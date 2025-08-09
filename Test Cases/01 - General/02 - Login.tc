@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02 - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4cfe72a6-df08-47dc-8bbf-c01f365abe9b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc9ccd5e-5870-43f9-a478-c040f52180d1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eb124013-385b-445b-8fbd-93d1689d9530</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a36c5494-d917-4019-82d7-6d76d62c96e0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'credential'</defaultValue>
+      <description>credential, google account</description>
+      <id>bc9ccd5e-5870-43f9-a478-c040f52180d1</id>
+      <masked>false</masked>
+      <name>loginMethod</name>
+   </variable>
+   <variable>
+      <defaultValue>'annisafarah712@gmail.com'</defaultValue>
+      <description></description>
+      <id>eb124013-385b-445b-8fbd-93d1689d9530</id>
+      <masked>false</masked>
+      <name>emailCredential</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test1234.'</defaultValue>
+      <description></description>
+      <id>a36c5494-d917-4019-82d7-6d76d62c96e0</id>
+      <masked>false</masked>
+      <name>passwordCredential</name>
+   </variable>
+</TestCaseEntity>
